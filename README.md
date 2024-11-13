@@ -1,3 +1,3 @@
 # demorepo
 First repo for practice
-Author- Devyani
+Author- Devyani Sharma
